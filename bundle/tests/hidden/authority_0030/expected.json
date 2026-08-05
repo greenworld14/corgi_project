@@ -1,0 +1,1 @@
+{"url": {"href": "ws://:pass@a.b.c:8080/p", "protocol": "ws:", "username": "", "password": "pass", "host": "a.b.c:8080", "hostname": "a.b.c", "port": "8080", "pathname": "/p", "search": "", "hash": ""}}

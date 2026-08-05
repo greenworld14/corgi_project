@@ -1,0 +1,1 @@
+{"tokens": [["num", "1.0f"], ["num", "100ULL"], ["chr", "'0'"], ["str", "u8\"utf\""], ["num", "3.14"], ["id", "bar"], ["num", "1.0f"], ["str", "L\"wide\""], ["str", "\"quote\\\"here\""]]}

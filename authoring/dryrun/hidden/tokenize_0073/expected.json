@@ -1,0 +1,1 @@
+{"tokens": [["id", "foo"], ["chr", "L'x'"], ["num", ".5"], ["chr", "'\\\\'"], ["str", "\"quote\\\"here\""]]}

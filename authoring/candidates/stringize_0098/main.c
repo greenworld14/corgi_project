@@ -1,0 +1,4 @@
+#define STR(x) #x
+#define XSTR(x) STR(x)
+#define PAIR(a,b) #a #b
+PAIR("a\tb"  foo/*c*/m  node/*c*/y  "a\tb", y/*c*/n)

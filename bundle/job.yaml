@@ -1,0 +1,24 @@
+# job.yaml — how a trial is built, run, and graded.
+
+job:
+  name: afterquery/url-parser-conformance
+  paradigm: implementation
+
+  environment:
+    dockerfile: environment/Dockerfile
+    allow_internet: false
+    cpus: 8
+    memory_mb: 16384
+    gpus: 0
+
+  agent:
+    timeout_sec: 28800                # 8h, within [14400, 72000]
+
+  verifier:
+    entrypoint: tests/test.sh
+    reward_file: reward.txt
+    timeout_sec: 3600
+
+  timer:
+    script: environment/timer.sh
+    mount: /app/.timer

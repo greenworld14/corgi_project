@@ -1,0 +1,25 @@
+{
+  "node_validated": true,
+  "stats": {
+    "kept": 1289,
+    "drop_disagree": 0,
+    "kept_error": 152,
+    "drop_mixed": 1
+  },
+  "by_category": {
+    "scheme": 120,
+    "authority": 140,
+    "host_domain": 90,
+    "host_ipv4": 140,
+    "host_ipv6": 130,
+    "port": 30,
+    "path": 80,
+    "opaque": 90,
+    "queryfrag": 90,
+    "relative": 159,
+    "encoding": 130,
+    "errors": 90
+  },
+  "hidden": 1256,
+  "visible": 33
+}

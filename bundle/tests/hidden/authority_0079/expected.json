@@ -1,0 +1,1 @@
+{"url": {"href": "ftp://user@sub.domain.org:80/p", "protocol": "ftp:", "username": "user", "password": "", "host": "sub.domain.org:80", "hostname": "sub.domain.org", "port": "80", "pathname": "/p", "search": "", "hash": ""}}

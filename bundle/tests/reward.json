@@ -1,0 +1,179 @@
+{
+  "reward": 0.0,
+  "passed_weight": 0.0,
+  "total_weight": 1714.5,
+  "cases_total": 1256,
+  "categories": {
+    "authority": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 137
+    },
+    "encoding": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 127
+    },
+    "errors": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 90
+    },
+    "host_domain": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 87
+    },
+    "host_ipv4": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 137
+    },
+    "host_ipv6": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 127
+    },
+    "opaque": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 87
+    },
+    "path": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 77
+    },
+    "port": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 27
+    },
+    "queryfrag": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 87
+    },
+    "relative": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 156
+    },
+    "scheme": {
+      "fraction": 0.0,
+      "passed": 0,
+      "total": 117
+    }
+  },
+  "status_counts": {
+    "ok": 1256
+  },
+  "diagnostics": {
+    "app_dir": "C:\\Users\\Bill\\AppData\\Local\\Temp\\tmplcave713\\app",
+    "app_urlp_exists": true,
+    "hidden_dir": "D:\\MMS\\workspace\\corgi\\bundle\\tests\\hidden",
+    "python": "D:\\android\\android-sdk\\ndk\\27.1.12297006\\toolchains\\llvm\\prebuilt\\windows-x86_64\\python3\\python.exe"
+  },
+  "sample_failures": [
+    {
+      "id": "scheme_0003",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0004",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0005",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0006",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0007",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0008",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0009",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0010",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0011",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0012",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0013",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0014",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0015",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0016",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0017",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0018",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0019",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0020",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0021",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0022",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0023",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0024",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0025",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0026",
+      "status": "ok"
+    },
+    {
+      "id": "scheme_0027",
+      "status": "ok"
+    }
+  ]
+}

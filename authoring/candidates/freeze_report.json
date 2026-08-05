@@ -1,0 +1,26 @@
+{
+  "gcc_validated": true,
+  "compiler": "D:/android/android-sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+  "stats": {
+    "kept": 1268,
+    "drop_disagree": 0,
+    "drop_refbad": 0,
+    "kept_error": 48,
+    "drop_mixed": 0
+  },
+  "by_category": {
+    "tokenize": 160,
+    "object_macro": 120,
+    "func_macro": 140,
+    "stringize": 100,
+    "paste": 140,
+    "variadic": 120,
+    "conditional": 160,
+    "include": 90,
+    "builtins": 70,
+    "integration": 120,
+    "errors": 48
+  },
+  "hidden": 1238,
+  "visible": 30
+}

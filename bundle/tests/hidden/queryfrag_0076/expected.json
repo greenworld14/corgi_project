@@ -1,0 +1,1 @@
+{"url": {"href": "http://h/path?k=v#frag", "protocol": "http:", "username": "", "password": "", "host": "h", "hostname": "h", "port": "", "pathname": "/path", "search": "?k=v", "hash": "#frag"}}

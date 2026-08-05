@@ -1,0 +1,1 @@
+{"url": {"href": "ws://u:p@example.com:0/p", "protocol": "ws:", "username": "u", "password": "p", "host": "example.com:0", "hostname": "example.com", "port": "0", "pathname": "/p", "search": "", "hash": ""}}

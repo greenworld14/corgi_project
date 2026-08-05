@@ -1,0 +1,1 @@
+{"url": {"href": "http://h/path?a=1&b=2&c=3#a%20b", "protocol": "http:", "username": "", "password": "", "host": "h", "hostname": "h", "port": "", "pathname": "/path", "search": "?a=1&b=2&c=3", "hash": "#a%20b"}}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "tokenize_0000",
+    "category": "tokenize",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "tokenize_0001",
+    "category": "tokenize",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "tokenize_0002",
+    "category": "tokenize",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "object_macro_0000",
+    "category": "object_macro",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "object_macro_0001",
+    "category": "object_macro",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "object_macro_0002",
+    "category": "object_macro",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "func_macro_0000",
+    "category": "func_macro",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "func_macro_0001",
+    "category": "func_macro",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "func_macro_0002",
+    "category": "func_macro",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "stringize_0000",
+    "category": "stringize",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "stringize_0001",
+    "category": "stringize",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "stringize_0002",
+    "category": "stringize",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "paste_0000",
+    "category": "paste",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "paste_0001",
+    "category": "paste",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "paste_0002",
+    "category": "paste",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "variadic_0000",
+    "category": "variadic",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "variadic_0001",
+    "category": "variadic",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "variadic_0002",
+    "category": "variadic",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "conditional_0000",
+    "category": "conditional",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "conditional_0001",
+    "category": "conditional",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "conditional_0002",
+    "category": "conditional",
+    "weight": 1.5,
+    "entry": "main.c"
+  },
+  {
+    "id": "include_0000",
+    "category": "include",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "include_0001",
+    "category": "include",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "include_0002",
+    "category": "include",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "builtins_0000",
+    "category": "builtins",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "builtins_0001",
+    "category": "builtins",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "builtins_0002",
+    "category": "builtins",
+    "weight": 1.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "integration_0000",
+    "category": "integration",
+    "weight": 2.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "integration_0001",
+    "category": "integration",
+    "weight": 2.0,
+    "entry": "main.c"
+  },
+  {
+    "id": "integration_0002",
+    "category": "integration",
+    "weight": 2.0,
+    "entry": "main.c"
+  }
+]

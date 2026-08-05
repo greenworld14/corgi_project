@@ -1,0 +1,29 @@
+[task]
+name = "afterquery/url-parser-conformance"
+description = """
+Implement the WHATWG URL parser from scratch in Python 3, stdlib only. The
+system runs the basic-URL-parser state machine over an input (optionally
+resolved against a base URL): scheme handling for special and non-special
+schemes, authority and userinfo parsing, host parsing (domain lowercasing,
+IPv4 in decimal/octal/hex forms, IPv6 literal parsing and compressed
+re-serialization, opaque hosts), default-port elision, dot-segment removal,
+per-component percent-encoding, opaque paths, and relative resolution. It emits
+the ten standard URL components as JSON. Scoring is the weighted fraction of
+hidden cases whose component set matches the frozen expectation exactly; the
+shipped stub scores near zero and a complete implementation scores near one.
+"""
+category = "compilers"
+tags = ["parsers", "language-tooling", "protocols", "systems", "url"]
+
+[agent]
+timeout_sec = 28800
+allow_internet = false
+
+[environment]
+allow_internet = false
+cpus = 8
+memory_mb = 16384
+gpus = 0
+
+[verifier]
+timeout_sec = 3600

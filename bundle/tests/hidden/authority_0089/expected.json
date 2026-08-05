@@ -1,0 +1,1 @@
+{"url": {"href": "ftp://a%40b@a.b.c:0/p", "protocol": "ftp:", "username": "a%40b", "password": "", "host": "a.b.c:0", "hostname": "a.b.c", "port": "0", "pathname": "/p", "search": "", "hash": ""}}

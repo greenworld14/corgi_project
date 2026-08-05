@@ -1,0 +1,1 @@
+{"tokens": [["id", "foo"], ["punct", "+="], ["id", "baz"], ["str", "L\"wide\""], ["punct", "=="], ["punct", "->"]]}

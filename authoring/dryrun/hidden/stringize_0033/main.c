@@ -1,0 +1,4 @@
+#define STR(x) #x
+#define XSTR(x) STR(x)
+#define VAL 1000000
+XSTR(VAL)

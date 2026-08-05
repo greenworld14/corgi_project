@@ -1,0 +1,14 @@
+# oracle.yaml — the reference ("oracle") run and the score it must reach,
+# plus the untouched-state ("nop") floor.
+
+oracle:
+  # Command that turns the shipped stub into a correct solution, run from the
+  # bundle root inside the task container.
+  solve: solution/solve.sh
+  expected_reward: 1.0
+  reward_tolerance: 0.05
+  reward_file: reward.txt
+
+nop:
+  # Implementation-paradigm floor: the untouched stub scores at or below this.
+  expected_reward_max: 0.15

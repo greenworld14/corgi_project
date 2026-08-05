@@ -1,0 +1,1 @@
+{"url": {"href": "foo:x?y#z", "protocol": "foo:", "username": "", "password": "", "host": "", "hostname": "", "port": "", "pathname": "x", "search": "?y", "hash": "#z"}}

@@ -1,0 +1,1 @@
+{"url": {"href": "http://u:p@example.com:8080/p", "protocol": "http:", "username": "u", "password": "p", "host": "example.com:8080", "hostname": "example.com", "port": "8080", "pathname": "/p", "search": "", "hash": ""}}

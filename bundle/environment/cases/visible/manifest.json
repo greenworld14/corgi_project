@@ -1,0 +1,200 @@
+[
+  {
+    "id": "scheme_0000",
+    "category": "scheme",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "scheme_0001",
+    "category": "scheme",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "scheme_0002",
+    "category": "scheme",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "authority_0000",
+    "category": "authority",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "authority_0001",
+    "category": "authority",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "authority_0002",
+    "category": "authority",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_domain_0000",
+    "category": "host_domain",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_domain_0001",
+    "category": "host_domain",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_domain_0002",
+    "category": "host_domain",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_ipv4_0000",
+    "category": "host_ipv4",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_ipv4_0001",
+    "category": "host_ipv4",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_ipv4_0002",
+    "category": "host_ipv4",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_ipv6_0000",
+    "category": "host_ipv6",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_ipv6_0001",
+    "category": "host_ipv6",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "host_ipv6_0002",
+    "category": "host_ipv6",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "port_0000",
+    "category": "port",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "port_0001",
+    "category": "port",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "port_0002",
+    "category": "port",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "path_0000",
+    "category": "path",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "path_0001",
+    "category": "path",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "path_0002",
+    "category": "path",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "opaque_0000",
+    "category": "opaque",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "opaque_0001",
+    "category": "opaque",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "opaque_0002",
+    "category": "opaque",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "queryfrag_0000",
+    "category": "queryfrag",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "queryfrag_0001",
+    "category": "queryfrag",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "queryfrag_0002",
+    "category": "queryfrag",
+    "weight": 1.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "relative_0000",
+    "category": "relative",
+    "weight": 2.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "relative_0001",
+    "category": "relative",
+    "weight": 2.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "relative_0002",
+    "category": "relative",
+    "weight": 2.0,
+    "entry": "input.json"
+  },
+  {
+    "id": "encoding_0000",
+    "category": "encoding",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "encoding_0001",
+    "category": "encoding",
+    "weight": 1.5,
+    "entry": "input.json"
+  },
+  {
+    "id": "encoding_0002",
+    "category": "encoding",
+    "weight": 1.5,
+    "entry": "input.json"
+  }
+]

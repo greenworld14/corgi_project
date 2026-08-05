@@ -1,0 +1,3 @@
+#define L __LINE__
+L
+L

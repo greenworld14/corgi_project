@@ -1,0 +1,1 @@
+{"tokens": [["id", "barfoo"], ["punct", "/"], ["id", "x"], ["id", "b"], ["str", "\"a\\tb\\n\""], ["chr", "'\\\\'"], ["punct", "<<"]]}

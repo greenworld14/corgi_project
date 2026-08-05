@@ -1,0 +1,12 @@
+# Authoring-only image for freezing the corpus. It has gcc AND python3 so the
+# cross-check can run. This image is NEVER submitted and is unrelated to the
+# task image under bundle/environment (which must contain no C preprocessor).
+FROM python:3.11-slim-bookworm
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+        gcc \
+    && rm -rf /var/lib/apt/lists/*
+
+# gcc --version is pinned by the base image tag; record it in the freeze log so
+# the corpus is reproducible.
+WORKDIR /work
