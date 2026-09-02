@@ -13,7 +13,6 @@ The case file is JSON: `{"input": "<string>", "base": "<string>"|null}`. You mus
 parse `input` against `base` exactly as `new URL(input, base)` does in a
 conforming implementation (and `new URL(input)` when `base` is `null`).
 
-On success, print a single JSON object to stdout and exit `0`:
 
 ```json
 {"url": {
